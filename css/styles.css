@@ -396,6 +396,10 @@ img {
   margin-bottom: 16px;
 }
 
+.txt {
+  margin-bottom: 16px;
+}
+
 .footer-socials .social-title {
   font-family: var(--font-primary);
   font-weight: 500;
