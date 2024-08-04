@@ -85,10 +85,6 @@ img {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.first-menu-item {
-  color: #404bbf;
-}
-
 .nav-link::after {
   content: "";
   position: absolute;
@@ -98,6 +94,10 @@ img {
   height: 4px;
   background-color: #404bbf;
   border-radius: 2px;
+}
+
+.nav-list .nav-link:first-child {
+  color: #404bbf;
 }
 
 .nav-link:hover,
