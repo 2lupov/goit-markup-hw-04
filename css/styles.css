@@ -384,12 +384,12 @@ img {
 
 .footer-description {
   font-family: var(--font-primary);
-  font-weight: 400;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--light-color);
-  margin-bottom: 24px;
+  color: var(#ffffff);
+  margin-bottom: 16px;
 }
 
 .social-list {
@@ -398,6 +398,11 @@ img {
   justify-content: center;
 }
 
+.social-list-footer {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
 .social-list-item {
   width: 40px;
   height: 40px;
@@ -429,4 +434,15 @@ img {
   width: 24px;
   height: 24px;
   fill: var(--light-color);
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  fill: var(--light-color);
+}
+
+.social-link-footer,
+.social-link-footer {
+  background-color: #31d0aa;
 }
