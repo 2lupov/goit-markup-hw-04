@@ -396,10 +396,8 @@ img {
   margin-bottom: 16px;
 }
 
-.txt {
-  margin-bottom: 16px;
-}
-
+.footer-description,
+.txt,
 .footer-socials .social-title {
   font-family: var(--font-primary);
   font-weight: 500;
@@ -427,11 +425,7 @@ img {
   justify-content: center;
 }
 
-.social-list-item {
-  width: 40px;
-  height: 40px;
-}
-
+.social-list-item,
 .social-list-item-footer {
   width: 40px;
   height: 40px;
