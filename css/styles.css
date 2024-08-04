@@ -425,8 +425,6 @@ img {
   display: flex;
   gap: 24px;
   justify-content: center;
-  height: 40px;
-  width: 40px;
 }
 
 .social-list-footer {
@@ -438,11 +436,6 @@ img {
   align-items: center;
   justify-content: center;
   gap: 16px;
-}
-
-.social-list-item {
-  width: 40px;
-  height: 40px;
 }
 
 .social-link {
