@@ -356,6 +356,7 @@ img {
 .footer .container {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
 
 .page-footer {
@@ -394,9 +395,12 @@ img {
 
 .footer-description,
 .social-title {
+  font-family: var(--font-primary);
+  font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--white-color); /* або #FFFFFF */
+  color: var(#ffffff);
   margin-bottom: 16px;
 }
 
