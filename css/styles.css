@@ -475,14 +475,14 @@ img {
 }
 
 .icon-svg {
-  width: 24px;
-  height: 24px;
+  width: 40px;
+  height: 43px;
   fill: var(--light-color);
 }
 
 .icon {
-  width: 24px;
-  height: 24px;
+  width: 40px;
+  height: 43px;
   fill: var(--light-color);
 }
 
