@@ -366,3 +366,9 @@ img {
   height: 24px;
   fill: var(--light-color);
 }
+
+.icon-svg {
+  width: 24px;
+  height: 24px;
+  fill: var(--light-color);
+}
